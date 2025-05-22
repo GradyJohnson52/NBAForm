@@ -1,0 +1,11 @@
+# Ignore virtual environments
+codproj/
+.venv/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
